@@ -106,12 +106,3 @@ Copy
 Edit
 
 ---
-
-### ✅ Next Steps for You
-
-1. Add this as `README.md` in your project folder
-2. Then run:
-```bash
-git add README.md
-git commit -m "📝 Added professional README"
-git push
